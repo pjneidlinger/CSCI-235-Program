@@ -1,3 +1,13 @@
+// Student Name: Phillip (PJ) Neidlinger
+// Program Name: Battleship
+// Creation Date: November 15, 2016
+// Last Modified Date: November 28, 2016
+// CSCI Course: CSCI 235
+// Grade Received: 100?
+// Comments Regarding Design: Dr. Hayes, the professor for my CSCI 235 class,
+// created the enemyAI.h file for students to use as the opposing player in
+// the Battleship game, we were required to create the Battleship.cpp file to
+// make the game work.
 
 // Include standard headers
 #include <iostream>
